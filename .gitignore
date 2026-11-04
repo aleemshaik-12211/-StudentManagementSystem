@@ -1,0 +1,17 @@
+
+# Java compiled files
+*.class
+
+# Build folders
+target/
+build/
+out/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Log files
+*.log
